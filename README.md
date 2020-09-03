@@ -10,9 +10,7 @@
 
 You're an industrious programmer that lives off the grid. The local well that you use to fetch water has gone dry, so you've decided to collect rain water to filter; however, your collection device isn't flat. 
 
-You're given an array of non-negative integers where each non-zero integer represents the height of a pillar of width 1. Imagine water being poured over all of the pillars; write a function that returns teh surface area of the water trapped between the pillars <ins>viewed from the front</ins>.
-
-Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water your collection device is able to trap after raining.
+You're given an array of non-negative integers where each non-zero integer represents the height of a pillar of width 1. Imagine water being poured over all of the pillars; write a function that returns the <ins>surface area of the water</ins> trapped between the pillars <ins>viewed from the front</ins>.
 
 ## Example
 
